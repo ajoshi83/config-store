@@ -1,3 +1,5 @@
+server:
+  port: 5757
 order:
   history:
     customer:
