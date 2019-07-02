@@ -1,0 +1,8 @@
+order:
+  history:
+    customer:
+      gold:
+        maxDuration: 48
+      silver:
+        maxDuration: 24
+      bronze: 12
